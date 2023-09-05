@@ -50,6 +50,7 @@ class NewProduct extends React.Component {
             type="text"
             name="p_image"
             id="p_image"
+            placeholder="1.jpg / 2.jpg / 3.jpg"
           />
         </div>
         <button className="btn btn-primary" type="submit">
